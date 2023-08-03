@@ -1,5 +1,5 @@
 # Basic Calculator
-### Welcome to my Arithmetic Calculator source code!
+### Welcome to my Basic Calculator source code!
 
 
 
